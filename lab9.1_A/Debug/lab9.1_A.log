@@ -1,0 +1,4 @@
+﻿  lab9_1_A.cpp
+D:\Student\lab9.1_A\lab9.1_A\lab9_1_A.cpp(42,12): warning C4101: midMARK: неиспользованная локальная переменная
+D:\Student\lab9.1_A\lab9.1_A\lab9_1_A.cpp(140,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lab9.1_A.vcxproj -> D:\Student\lab9.1_A\Debug\lab9.1_A.exe

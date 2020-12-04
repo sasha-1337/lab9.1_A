@@ -1,0 +1,5 @@
+﻿  UnitTest9.1_A.cpp
+D:\Student\lab9.1_A\lab9.1_A\lab9_1_A.cpp(42,12): warning C4101: midMARK: неиспользованная локальная переменная
+D:\Student\lab9.1_A\lab9.1_A\lab9_1_A.cpp(139,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Student\lab9.1_A\UnitTest9.1_A\UnitTest9.1_A.cpp(18,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  UnitTest9.1_A.vcxproj -> D:\Student\lab9.1_A\Debug\UnitTest9.1_A.dll
